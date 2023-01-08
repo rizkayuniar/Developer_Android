@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Shopping-list Challenge 2</string>
+    <string name="empty_label"><![CDATA[<< >>]]></string>
+    <string name="add_item">Add Item</string>
+    <string name="product1">Keju</string>
+    <string name="product2">Nasi</string>
+    <string name="product3">Apel</string>
+    <string name="product4">Roti</string>
+    <string name="product5">Telur</string>
+    <string name="product6">Kopi</string>
+    <string name="product7">Susu</string>
+    <string name="product8">Gula</string>
+    <string name="product9">Kacang</string>
+    <string name="product10">Tomat</string>
+    <string name="product11">Daging</string>
+    <string name="product12">Kentang</string>
+
+    <string name="edittext_loc">Politeknik Negeri Banjarmasin</string>
+    <string name="button_loc">Open Location</string>
+</resources>

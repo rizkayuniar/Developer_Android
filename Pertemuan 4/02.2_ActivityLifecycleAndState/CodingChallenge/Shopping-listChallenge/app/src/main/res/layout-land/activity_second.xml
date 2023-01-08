@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".SecondActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/top_land_second"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product1"
+            android:onClick="getProduct"/>
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product2"
+            android:onClick="getProduct"/>
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product3"
+            android:onClick="getProduct"/>
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product4"
+            android:onClick="getProduct"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/top_land_second"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product5"
+            android:onClick="getProduct"/>
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product6"
+            android:onClick="getProduct"/>
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product7"
+            android:onClick="getProduct"/>
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product8"
+            android:onClick="getProduct"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/top_land_second"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product9"
+            android:onClick="getProduct"/>
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product10"
+            android:onClick="getProduct"/>
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product11"
+            android:onClick="getProduct"/>
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/left_land_second"
+            android:layout_marginEnd="@dimen/right_land_second"
+            android:text="@string/product12"
+            android:onClick="getProduct"/>
+    </LinearLayout>
+</LinearLayout>

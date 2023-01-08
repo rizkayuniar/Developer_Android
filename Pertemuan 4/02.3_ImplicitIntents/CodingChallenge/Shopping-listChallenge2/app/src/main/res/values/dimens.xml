@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="top">16dp</dimen>
+    <dimen name="bottom">24dp</dimen>
+
+    <dimen name="text_size_land">22sp</dimen>
+    <dimen name="top_land">5dp</dimen>
+    <dimen name="right_land">10dp</dimen>
+    <dimen name="left_land">10dp</dimen>
+    <dimen name="bottom_land">12dp</dimen>
+
+    <dimen name="top_second">10dp</dimen>
+    <dimen name="left_second">5dp</dimen>
+    <dimen name="right_second">5dp</dimen>
+
+    <dimen name="top_land_second">10dp</dimen>
+    <dimen name="left_land_second">5dp</dimen>
+    <dimen name="right_land_second">5dp</dimen>
+</resources>
