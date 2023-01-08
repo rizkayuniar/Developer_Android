@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.interpolator.Application-mergeDebugResources-6:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rizka\\.gradle\\caches\\transforms-3\\302244ad0f38f41f8e0401d4c742bfbc\\transformed\\appcompat-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

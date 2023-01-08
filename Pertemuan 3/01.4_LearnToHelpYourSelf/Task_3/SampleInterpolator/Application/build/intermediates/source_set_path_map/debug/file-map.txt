@@ -1,0 +1,11 @@
+com.example.android.interpolator.Application-core-1.0.0-0 C:\Users\rizka\.gradle\caches\transforms-3\1093b5c1c91ee90137d64c04810f2332\transformed\core-1.0.0\res
+com.example.android.interpolator.Application-coordinatorlayout-1.0.0-1 C:\Users\rizka\.gradle\caches\transforms-3\1f44efcae9a04cbac9f5e98c4a721461\transformed\coordinatorlayout-1.0.0\res
+com.example.android.interpolator.Application-appcompat-1.0.0-2 C:\Users\rizka\.gradle\caches\transforms-3\302244ad0f38f41f8e0401d4c742bfbc\transformed\appcompat-1.0.0\res
+com.example.android.interpolator.Application-pngs-3 C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\build\generated\res\pngs\debug
+com.example.android.interpolator.Application-resValues-4 C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\build\generated\res\resValues\debug
+com.example.android.interpolator.Application-rs-5 C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\build\generated\res\rs\debug
+com.example.android.interpolator.Application-mergeDebugResources-6 C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.interpolator.Application-mergeDebugResources-7 C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.interpolator.Application-merged_res-8 C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\build\intermediates\merged_res\debug
+com.example.android.interpolator.Application-debug-9 C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\debug\res
+com.example.android.interpolator.Application-main-10 C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\res

@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:17:1-40:12
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:17:1-40:12
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:17:1-40:12
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\302244ad0f38f41f8e0401d4c742bfbc\transformed\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\4d9cd17291d2d55953eb8c27ee034fe8\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\fe618742ffa3f864fd84862fd444cbec\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\7eeab64696056ccf1758a6b208a6ffef\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\236eba639ac33151bf3fe8ee282b37e6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\85d13bf6d3d17cffbb670ea9724b0063\transformed\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\615d68c119f5b23283ee26bf38d4dfb4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\beea0202a3bfc6fcead60be62b365ba4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\1f44efcae9a04cbac9f5e98c4a721461\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\8b6c985bde2cfdf47394fd05d3d18296\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\22e262f254e21df6976118e9cececd48\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\cafbe43705e7de51ef70afaa838b9e74\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\71d5fde4db037091b363ae3feacb6529\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\dfd13e6eecd45cfaf01dba98d56c51b0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\1093b5c1c91ee90137d64c04810f2332\transformed\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\834b41de81649482b7110134afe15620\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\882cfffd8d3c95ba668d49b40f3d88f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\d4ed20adf64391c0c313a84b5762950d\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\21e5d7815174ebf12ec0d7289134dcd4\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\e73c86b3573ad4a7ff179a0b22b3e639\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\e49e4dff70250dbb03e409465432a16f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\a22bc5b0cb53503d1b7b21b2beb9a21a\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\3b2232aed2e224057abccf48e4079fa0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\62b972ccdb2e5dd3aa255be8247df3ee\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\c557cc45c787b6534df4cdcfeaecb090\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\9f8ae07c01b7029dd5f1bc24deb42eb2\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:17:1-40:12
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:17:1-40:12
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:18:5-47
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:24:5-38:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\1093b5c1c91ee90137d64c04810f2332\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\1093b5c1c91ee90137d64c04810f2332\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\834b41de81649482b7110134afe15620\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\834b41de81649482b7110134afe15620\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\1093b5c1c91ee90137d64c04810f2332\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.interpolator.MainActivity
+ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:30:9-37:20
+	android:exported
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\302244ad0f38f41f8e0401d4c742bfbc\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\302244ad0f38f41f8e0401d4c742bfbc\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\4d9cd17291d2d55953eb8c27ee034fe8\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\4d9cd17291d2d55953eb8c27ee034fe8\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\fe618742ffa3f864fd84862fd444cbec\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\fe618742ffa3f864fd84862fd444cbec\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\7eeab64696056ccf1758a6b208a6ffef\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\7eeab64696056ccf1758a6b208a6ffef\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\236eba639ac33151bf3fe8ee282b37e6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\236eba639ac33151bf3fe8ee282b37e6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\85d13bf6d3d17cffbb670ea9724b0063\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\85d13bf6d3d17cffbb670ea9724b0063\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\615d68c119f5b23283ee26bf38d4dfb4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\615d68c119f5b23283ee26bf38d4dfb4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\beea0202a3bfc6fcead60be62b365ba4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\beea0202a3bfc6fcead60be62b365ba4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\1f44efcae9a04cbac9f5e98c4a721461\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\1f44efcae9a04cbac9f5e98c4a721461\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\8b6c985bde2cfdf47394fd05d3d18296\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\8b6c985bde2cfdf47394fd05d3d18296\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\22e262f254e21df6976118e9cececd48\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\22e262f254e21df6976118e9cececd48\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\cafbe43705e7de51ef70afaa838b9e74\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\cafbe43705e7de51ef70afaa838b9e74\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\71d5fde4db037091b363ae3feacb6529\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\71d5fde4db037091b363ae3feacb6529\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\dfd13e6eecd45cfaf01dba98d56c51b0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\dfd13e6eecd45cfaf01dba98d56c51b0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\1093b5c1c91ee90137d64c04810f2332\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\1093b5c1c91ee90137d64c04810f2332\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\834b41de81649482b7110134afe15620\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\834b41de81649482b7110134afe15620\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\882cfffd8d3c95ba668d49b40f3d88f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\882cfffd8d3c95ba668d49b40f3d88f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\d4ed20adf64391c0c313a84b5762950d\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\d4ed20adf64391c0c313a84b5762950d\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\21e5d7815174ebf12ec0d7289134dcd4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\21e5d7815174ebf12ec0d7289134dcd4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\e73c86b3573ad4a7ff179a0b22b3e639\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\e73c86b3573ad4a7ff179a0b22b3e639\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\e49e4dff70250dbb03e409465432a16f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\e49e4dff70250dbb03e409465432a16f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\a22bc5b0cb53503d1b7b21b2beb9a21a\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\a22bc5b0cb53503d1b7b21b2beb9a21a\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\3b2232aed2e224057abccf48e4079fa0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\3b2232aed2e224057abccf48e4079fa0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\62b972ccdb2e5dd3aa255be8247df3ee\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\62b972ccdb2e5dd3aa255be8247df3ee\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\c557cc45c787b6534df4cdcfeaecb090\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rizka\.gradle\caches\transforms-3\c557cc45c787b6534df4cdcfeaecb090\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\9f8ae07c01b7029dd5f1bc24deb42eb2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rizka\.gradle\caches\transforms-3\9f8ae07c01b7029dd5f1bc24deb42eb2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rizka\AndroidStudioProjects\Lesson_1\01.4_LearnToHelpYourSelf\Task_3_LearnFromSampleCode\SampleInterpolator\Application\src\main\AndroidManifest.xml
