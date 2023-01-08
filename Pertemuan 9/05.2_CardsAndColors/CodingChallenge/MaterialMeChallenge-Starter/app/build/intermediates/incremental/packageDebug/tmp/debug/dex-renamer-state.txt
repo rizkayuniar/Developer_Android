@@ -1,0 +1,4 @@
+#Thu Dec 01 07:18:03 SGT 2022
+base.0=C\:\\Users\\rizka\\AndroidStudioProjects\\Lesson_5\\05.2_CardsAndColors\\CodingChallenge\\MaterialMeChallenge-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

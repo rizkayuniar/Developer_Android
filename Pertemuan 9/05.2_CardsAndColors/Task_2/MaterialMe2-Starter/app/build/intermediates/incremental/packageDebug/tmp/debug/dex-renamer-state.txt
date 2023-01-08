@@ -1,0 +1,4 @@
+#Mon Nov 28 21:57:18 SGT 2022
+base.0=C\:\\Users\\rizka\\AndroidStudioProjects\\Lesson_5\\05.2_CardsAndColors\\Task_2_AddACardViewAndImages\\MaterialMe2-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

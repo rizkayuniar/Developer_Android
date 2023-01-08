@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">List Of Recipes</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="recipes">Recipes</string>
+    <string name="label">Recycle View</string>
+
+    <string name="blackforest">
+        Bahan-bahan\n
+•	100 gram tepung terigu protein sedang\n
+•	8 butir telur\n
+•	200 gram gula pasir\n
+•	60 gram coklat bubuk\n
+•	100 gram mentega, lelehkan\n
+•	40 gram tepung maizena\n
+•	1/4 sendok teh vanili\n
+•	1 sendok makan emulsifier\n\n
+Bahan Untuk Garnish:\n
+•	500 gram krim kocok / butter cream\n
+•	1 kaleng cherry hitam\n
+•	100 gram Dark Cooking Chocolate (DCC)\n
+•	10 buah ceri merah\n\n
+Cara membuat:\n
+\n1.	Masukkan tepung terigu bersama dengan tepung mazeina dan juga coklat bubuk. Aduk-aduk bahan ini secara merata dan ayak dengan menggunakan saringan. Sisihkan sementara.
+\n2.	Setelah itu, siapkan wadah atau baskom yang baru dan kocok telur bersama dengan emulsifier sampai mengembang dan mengental selama kurang lebih 10-15 menit. Gunakan kecepatan paling tinggi pada mixer dan kocok terus.
+\n3.	Masukkan campuran tepung terigu dan coklat bubuk yang telah diayak, kemudian masukkan mentega yang telah dicairkan. Aduk-aduk bahan ini secara merata sampai tercampur merata.
+\n4.	Nah, setelah semua bahan dicampur secara merata, silahkan bagi adonan kedalam 3 buah loyang yang sudah dipersiapkan dan ratakan bagian atasnya dengan menggunakan pisau.
+\n5.	Masukkan adonan dalam loyang kedalam oven dengan suhu 180 derajat dan biarkan selama kurang lebih 25 menit.
+\n6.	Angkat kue dan dinginkan.
+\n7.	Basahi ceri dan letakan satu lapisan kue, kemudian olesi dengan butter cream dan tempatkan ceri dibagian atasnya.
+\n8.	Lakukan hal yang sama sampai lapisan kue terususun dengan cantik
+    </string>
+
+    <string name="blueberrycupcake">
+        Bahan\n
+-200 g gula pasir\n
+-115 g mentega tawar\n
+-2 butir telur\n
+-325 g tepung terigu serbaguna\n
+-2 ½ sdt baking powder\n
+-½ sdt garam\n
+-225 ml susu cair\n
+-100 g buah blueberry atau selai blueberry\n\n
+
+        Cara Membuat\n
+    \n1.Panaskan oven 180°C. Siapkan loyang muffin alasi dengan mangkuk kertas.
+    \n2.Ayak tepung terigu, baking powder, garam. Aduk rata.
+    \n3.Kocok dengan mikser gula dan mentega. Masukkan telur satu per satu sambil diaduk rata hingga mengembang.
+    \n4.Tuang setengah bagian campuran tepung, aduk rata.
+    \n5.Tuang susu, aduk kembali. Masukkan sisa tepung terigu dan buah blueberry. Aduk rata.
+    \n6.Tuang dalam cetakan. Panggang selama 30 menit. Sajikan hangat.
+    </string>
+
+    <string name="chocolatecake">
+      BAHAN\n
+220 gr 	 GULAKU\n
+250 gr 	Cokelat hitam, lelehkan\n
+250 gr 	Mentega\n
+6 btr 	Kuning telur\n
+6 btr 	Putih telur, kocok kaku\n
+170 gr 	Tepung terigu\n
+15 gr 	Cokelat bubuk\n\n
+GANACHE\n
+250 gr 	Cokelat hitam potong-potong\n
+100 ml 	Krim kental\n\n
+
+      Cara Membuat\n
+    Cake : \n
+    Kocok mentega dan GULAKU hingga lembut, masukkan kuning telur satu per satu, kocok hingga mengembang.
+    Masukkan cokelat leleh dan tepung terigu aduk rata, tambahkan putih telur aduk perlahan.
+    Masukkan adonan ke dalam loyang bulat diameter 25 cm yang beralas kertas kopi dan beroles margarin.
+    Panggang dalam oven dengan suhu 180ºC selama 45 menit hingga matang. Angkat dan dinginkan\n
+    Ganache : Panaskan krim kental, angkat lalu masukkan dark cokelat, aduk hingga cokelat mengental.
+    Tuang ganache cokelat diatas cake, ratakan. Hias dengan raspberry dan karamel. Sajikan
+
+    </string>
+
+    <string name="cookies">
+      BAHAN\n
+    510 gr tepung terigu pro rendah,500 gr margarin,220 gr gula halus,120 gr maizena,45 gr cokelat bubuk,
+    40 gr susu bubuk cokelat,1 sdt vanili,2 sdt baking power,2 sdt pasta cokelat,Chocochip secukupnya
+\n\n
+      Cara Membuat\n
+    \n1.Dalam wadah, campur gula halus dan margarin, aduk rata mengunakan whisk.
+    \n2.Setelah itu, masukkan cokelat bubuk, susu bubuk, maizena, bp, vanili dan pasta coklat. Aduk rata.
+    \n3.Setelah tercampur rata, tambahkan terigu sedikit demi sedikit kemudian tambahkan chocochips aduk rata.
+    \n4.Oles loyang dengan margarin. Ambil sedikit adonan, tata di loyang kemudian tekan dengan garpu. Boleh juga ditambahkan chocochips di atasnya.
+    \n5.Panaskan oven, panggang selama 15-20 menitan.
+    \n6.Setelah matang, biarkan dingin dan tata ke dalam stoples.
+    </string>
+
+    <string name="croissant">
+      BAHAN\n
+        600 Gr Tepung Terigu,12 Gr ragi instan,60 Gr Gula pasir halus,30 Gr Susu Bubuk,325 ml Air Es,30 Gr Garam\n\n
+
+        Bahan Lapisan Roti\n
+        350 Gr Pastry margarine (Giling tipis gunakan dua plastik)\n\n
+
+        Bahan Olesan Roti\n
+    1 btr Telur Ayam,1 btr Kuning Telur,1 sdm Krim Kental
+\n\n
+      Cara Membuat\n
+    \nPertama-tama, siapkan dahulu wadah besar dan campurkan tepung terigu, gula pasir halus, susu bubuk dan ragi instan. Aduk hingga semua bahan tercampur rata, lalu tuangkan air es sedikit demi sedikit dan ulenin adonan bisa menggunakan tangan saja.
+    \nTambahkan garam halus kedalam adonan dan aduk kembali hingga kalis. Diamkan adonan dan simpan kedalam lemari es selama 15 menit.
+    \nSetelah menunggu 15 menit, keluarkan adonan dari lemari es lalu giling adonan secara memanjang bisa dengan rolling pin. Lakukan hingga adonan habis.
+    \nTaburkan tepung terigu pada bagian atas adonan yang sudah digiling tersebut, lalu letakan pastry margarin dibagian tengah lalu lipat adonan dengan tertutup rapat.
+    \nKemudian giling kembali adonan secara memanjang, lipat bagian atas dan bagian bawah adonan dengan kearah tengah lalu giling secara memanjang kembali dan lipat single sekali lagi.
+    \nSimpan adonan kedalam lemari es kembali sekitar 15 menit.
+    \nGiling adonan memanjang tebal sekitar 1/2cm, potong dan bentuk menjadi segitiga dan diamkan kembali sekitar 35 menit
+    \nLalu oleskan dengan bahan olesan dibagian atas hingga rata.
+    \nPanggang dalam oven dengan suhu 200 derajat celcius selama 15 menit atau hingga berubah warna menjadi kecokelatan.
+    \nSetelah matang, keluarkan dari oven. Roti croissant siap disajikan.
+    </string>
+
+    <string name="donut">
+      BAHAN\n
+    \n500 gr tepung terigu cakra
+    \n150ml air
+    \n1 bungkus ragi instan fermipan
+    \n3 butir kuning telur
+    \n9 sdm gula pasir
+    \n6 sdm margarin
+    1 sdm SP
+\n\n
+      Cara Membuat\n
+    \nCampurkan 1 sdm gula pasir dengan ragi dan air. Aduk hingga larut, diamkan selama 5 menit, jika mengembang atau berbusa, tanpa ragi masih aktif dan siap digunakan. 
+    \nCampurkan telur dengan terigu. Tuang air ragi, aduk rata hingga kalis. 
+    \nMasukan margarin dan SP, uleni lagi hingga tercampur rata. Jika adonan terlalu basah atau lembek, taburi terigu sedikit demi sedikit hingga tidak terlalu lembek.
+    \nBulatkan adonan dan diamkan di dalam wadah selama 45 menit. Tutup menggunakan kain dan letakkan di area yang teduh atau gelap.
+    \nJika sudah mengembang dua kali lipat, ulen sesekali lalu bagi adonan menjadi 20 bagian. Bulatkan dan letakkan di atas kertas roti. Tata dan tutup dengan kain selagi menyelesaikan lainnya.
+    \nAdonan akan mengembang dengan sendirinya lagi. Panaskan minyak cukup banyak. Jika sudah panas, tusuk bagian tengahnya sedikit menguunakan jari atau sumpit, lalu goreng adonan menggunakan api sedang cenderung kecil agar tidak gosong.
+    \nBalik sekali ketika sudah kecokelatan. Angkat setelah mengembang dan tampak matang merata. Angkat.
+
+    </string>
+
+    <string name="macaron">
+      BAHAN\n
+    90 gram kacang almond (bisa pakai 100 gram tepung almond) 3 putih telur ayam 255 gram gula kastor 1/4 sdt krim tartar Pewarna makanan kuning, hijau, dan merah secukupnya\n\n
+    Bahan isi 2 sdm krim kental 100 gram cokelat putih, potong-potong 1/2 sdt vanili bubuk
+\n\n
+      Cara Membuat\n
+    \nPanaskan oven suhu 160 derajat celsius. Siapkan loyang, alasi kertas roti.
+      \n  Sangrai atau panggang kacang almond sampai matang. Angkat, biarkan dingin.
+        \nHaluskan menggunakan grinder atau blender.
+        \nKocok putih telur sampai mengembang dan kaku.
+        \nTambahkan gula kastor secara bertahap, kocok sampai gula larut.
+       \n Letakkan wadah berisi telur kocok di atas panci berisi air di atas api. Kocok sembari ditim selama 5 menit atau hasil mengilap. Angkat. Tambahkan krim tartar, kocok rata.
+        \nMasukkan kacang almond halus ke dalam adonan busa putih telur. Campur dengan gerakan melipat.
+        \nBagi adonan menjadi 3. Masing-masing beri pewarna kuning, hijau, dan merah. Campur dengan gerakan melipat.
+        \nMasukkan masing-masing adonan ke dalam pipping bag atau plastik tebal yang dilubangi ujungnya. Semprot adonan jadi bentuk bundar diameter 3 sentimeter ke atas loyang. Taburi gula kastor.
+        \nPanggang selama 60 menit sampai macaron mengeras. Angkat dan sisihkan.
+        \nIsi: masukkan krim kental ke dalam panci kecil, kerang di atas api sedang. Kecilkan api, masukkan cokelat putih. Aduk sampai adonan tercampur rata dan halus. Angkat, dinginkan.
+        \nAmbil 1 keping macaron, semprotkan isi vanila. Tutup dengan 1 keping macaron. Lakukan sampai macaron habis. Sajikan macaron vanila warna-warni.
+
+
+    </string>
+    <string name="pancake">
+      BAHAN\n
+    10 sdm tepung terigu\n
+    100 ml susu cair\n
+    1 sdm madu\n
+    3 sdm gula pasir\n
+    1/2 sdt baking powder\n
+
+\n\n
+      Cara Membuat\n
+    \n1.Campurkan tepung, gula, baking soda, dan susu, aduk rata hingga tidak ada yang bergerindil.
+    \n2.Siapkan teflon, lelehkan margarin secukupnya. Tuang adonan pancake satu sendok sayur di tengah teflon.
+    \n3.Masak dengan api kecil hingga keluar lubang-lubangnya.
+    \n4.Jika sudah merata lubangnya, balik dan masak sebentar, angkat. Ulangi hingga adonan pancake habis.
+
+
+    </string>
+
+    <string name="rainbowcake">
+      BAHAN\n
+    200 gr tepung terigu protein sedang,
+    200 gr gula pasir,
+    200 ml minyak goreng,
+    4 butir telur, suhu ruangan,
+    4 sdm kental manis,
+    2 sdm susu bubuk,
+    1 sdm TBM/SP (pilih salah satu),
+    1/2 sdt essence vanila,
+    1/4 sdt garam,
+    1/4 sdt baking powder,
+    6 buah pewarna makanan,
+    buttercream dan keju parut secukupnya
+
+
+\n\n
+      Cara Membuat\n
+    \nKocok telur dengan gula, vanili dan garam menggunakan mixer hingga gula larut dan telur mengembang putih berjejak.
+    \nCampurkan tepung terigu, baking powder dan susu bubuk. Ayak.
+    \nMasukkan kental manis dan tepung sedikit demi sedikit sambil tetap diaduk hingga tercampur rata. Matikan mixer.
+    \nTuang minyak dan aduk balik menggunakan spatula agar adonan tidak turun atau bantat saat sudah matang.
+    \nPanaskan kukusan. Siapkan beberapa loyang dengan ukuran sama. Bagi adonan menjadi enam bagian, beri warna yang berbeda-beda.
+    \nOles dasarnya dengan minyak, lapisi dengan kertas roti. Tuang adonan dan hentakkan untuk mengeluarkan udara dan meratakan permukaannya.
+    \nJika kukusan sudah panas, masukkan loyang dan kukus selama sekitar 7 menit. Jika sudah matang, angkat. Ganti dengan loyang warna lain.
+    \nJika semua lapisan bolu kukus atau cake sudah matang, keluarkan dari loyang.
+    \nLetakkan satu lapis, oles dengan buttercream secukupnya. Taruh lapisan berikutnya, begitu seterusnya hingga lapisan teratas.
+    \nOles merata buttercream mengelilingi rainbow cake dan hias dengan keju parut di atasnya.
+
+
+    </string>
+
+    <string name="waffle">
+      BAHAN\n
+    250 g tepung terigu\n
+    250 ml susu UHT putih\n
+    100 gr margarin, lelehkan\n
+    5 sdm gula pasir\n
+    2 butir telur\n
+    1 sdt baking powder\n
+
+\n\n
+      Cara Membuat\n
+    \nCampurkan tepung terigu dengan baking powder. Ayak, lalu campur dengan gula pasir. 
+    \nTuang susu cair dan masukkan telur. Aduk rata hingga tercampur dan terbentuk adonan kental. Jika terlalu padat, bisa tambahkan air secukupnya.
+    \nTuang margarin, aduk rata. Panaskan pan cetakan waffle. Oles dengan margarin tipis saja. Tunggu hingga benar-benar panas lalu tuang adonan secukupnya.
+    \nTutup cetakan, balik agar matang merata jika menggunakan cetakan manual. Jika pakai elektrik, tinggal tunggu hingga berbunyi atau sesekali dilihat saja.
+    \nKeluarkan waffle dan lakukan hingga adonan habis.
+    </string>
+</resources>
