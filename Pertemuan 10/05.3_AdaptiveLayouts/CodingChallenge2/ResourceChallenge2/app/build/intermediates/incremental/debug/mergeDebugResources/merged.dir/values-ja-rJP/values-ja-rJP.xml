@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sports_details">
+        <item>ベースボール（英語：baseball）は、2つのチームでプレーするスポーツです。 このスポーツ
+             野球の試合に似ています。 投げようとしている投手チームの投手（投手）
+             バッティング チームのプレーヤー (バッター) がトライしている間に、ベースボールと呼ばれるボール
+             バット（バット）でボールを打つ。 トライを投げたチーム
+             打者チームが打ったボールをキャッチし、打者チームが
+             投げるチーム。 打者チームは反対方向に走ることでポイントを獲得
+             表面のマーキングに触れた後、時計回りにホームプレートに戻ります
+             ベースと呼ばれる野球場。 野球は硬式野球とも呼ばれる
+             ソフトボールとの違い。
+        </item>
+        <item> バドミントン、バドミントン、または拍手羽（英語：badminton）は、
+             空洞のある丸い形の道具を使用するスポーツ
+             叩く部分。 しかも持ち手付き。 このツールはラケットとして知られています
+             2 人 (シングルスの場合) または 2 組 (ダブルスの場合) で相互にプレー
+             反対。 テニスと同じように、バドミントンはフェザーゲームボールを打つことを目指しています
+             受け流し、つまり、ネットを通り抜けて相手の競技場に落ちる方法
+             決心し、対戦相手が同じことをするのを防ごうとします。
+        </item>
+        <item> バスケットボールまたはバスケットボールは、通常 2 つのチームが参加するチーム スポーツです。
+             それぞれが長方形のコートで向かい合う5人のプレーヤーで構成され、
+             バスケットボール（直径約9.4インチ）を撃つという主な目的と競う
+             (24 cm)) をバックフープに通します (直径 18 インチ (46 cm) のバスケットが取り付けられています)
+             相手チームを防ぎながら、コートの両端にあるボードまで 10 フィート (3.048 m)
+             自分のリングを通して撃ちます。 フィールド ゴールは、得点しない限り 2 ポイントの価値があります。
+             スリーポイントラインの後ろから、それが 3 の価値があるとき、違反の後、それはゲームの時間です。
+             停止し、ファウルを犯したプレーヤー、またはファウルを撃つように指名されたプレーヤー
+             テクニカルには、1、2、または 3 つの 1 ポイント フリー スローが与えられます。 ポイントのあるチーム
+             ゲームの終わりに最も勝つが、レギュレーションゲームが終了した場合
+             スコアドロー、追加のプレー時間（延長時間）が必要です。
+        </item>
+        <item> ボウリングまたはローリング ボールは、ゲームやスポーツの一種であり、その活動は
+             ピンに当たるまでボウリングボールを片手で転がすだけです
+             十の三角形。 すべてのピンが 1 回のロールでドロップされた場合
+             （投げる）それはストライクと呼ばれます。 ピンがすぐに落とされない場合は、それが授与されます
+             残りのピンをノックダウンするもう一度のチャンス。 2回目のトスのとき
+             これ以上ピンが残っていないことをスペアと呼びます。 2回経ってもまだピンがある場合
+             残り、それはオープンフレーム（欠落）と呼ばれ、その全体が決定されます
+             各ゲームで得られる数字の計算。 ピンは次のように並べ替えられます
+             次のフレームに戻ります。
+        </item>
+        <item> サイクリングまたはサイクリングは、二輪自転車を使用する場合もサイクリングと呼ばれます
+             またはサイクリングは、移動、レクリエーション、スポーツに自転車を使用することです。 人
+             サイクリングに携わる人は「サイクリスト」と呼ばれます。 自転車以外
+             2、「サイクリング」には、一輪車、人力車、四輪車、リカンベントに乗ることも含まれます
+             および同様の人力車両 (HPV)。 19世紀に自転車が登場し、
+             現在、世界中で約 10 億人に上ります。 それらは移動手段です
+             世界の多くの地域、特にヨーロッパの人口密度の高い都市で。 自転車
+             最適で効果的かつ効率的な交通手段として広く認められています。
+             短距離から中距離。
+        </item>
+        <item> ゴルフは、個人またはチームでプレーする屋外ゲームです。
+             数字のフィールドにある穴にボールを入れることを競う
+             できるだけ少ないヒット数。 ボールはバットのセットを使用して打たれます
+             クラブ（ゴルフクラブ）と呼ばれる。 このスポーツは、そうでないゲームの 1 つです。
+             標準的な競技場があるが、別の競技場でプレーされる
+             それぞれがユニークなデザインをしており、通常は 9 個または 18 個の穴 (穴) で構成されています。
+             ゴルフの基本ルールは「ティーエリアからゴルフクラブでボールをプレーすること」
+             (ティーインググラウンド) 1打以上のストロークでホールに入る
+             規則に従って」。
+        </item>
+        <item> ランニングまたはランニングは、人間ができる地上の移動方法です。
+             他の動物は徒歩で素早く移動します。 ランニングは歩き方の一種
+             これは、すべての足が地面に着いている空中フェーズによって特徴付けられます (たとえ
+             例外）。 これは、片方の足が常に触れている歩行とは対照的です
+             地面と一緒に、ほとんどの脚はまっすぐに保たれ、重心は跳ね上がります
+             馬の脚または逆振り子式の脚 斜めから走る体の特徴
+             ばね質量力学の観点は、運動エネルギーと位置エネルギーの変化は
+             1 つのステップが同時に発生し、腱によってエネルギーが蓄えられます。
+             しなやかさと受動的な筋肉の弾力性。 [3] ランニングという用語は、さまざまな
+             ジョギングからスプリントまでのスピード。
+        </item>
+        <item> 世界で最も人気のあるスポーツであるサッカーには、言語で 2 つの異なる名前があります
+             イングランド、「フットボール」と「サッカー」。 "Football" はイギリス人や大多数が使う
+             世界人口だけでなく、FIFA。 「サッカー」は具体的には
+             アメリカ合衆国 (US) の人々。 実はオーストラリアでも「サッカー」という言葉が使われています
+             サッカーのナショナルチームのニックネーム、Socceroos。 ユニークなフットボール組織
+             カンガルー カントリーは実際に「フットボール」というフレーズを使用しています — オーストラリアサッカー連盟 (FFA)。
+             では、英語でフットボールを表す 2 つの異なる用語があるのはなぜですか?
+             1800 年代初頭、英国の大学のグループが同じゲームをプレイしました。
+             サッカーと呼ばれるが、試合もルールも大学とは別物
+             他は均一ではありません。 そのため、ゲームの言及も英語です
+             ゲームのカテゴリによって異なります。 出現した変形の 1 つは「ラグビー」でした。
+             サッカー」は、ゲームも手作業で行われるためです。他のバリエーションについては
+             1863 年に FA が設立された直後に、アソシエーション フットボールと呼ばれるようになりました。
+        </item>
+        <item> 水泳または水泳は、個人またはチームのレース スポーツです。
+             全身を使って水中を移動すること。 スポーツはプールで行われます
+             水泳またはオープンウォーター（海や湖など）。 競泳
+             最も人気のあるオリンピック スポーツの 1 つです。
+             バタフライ、背泳ぎ、平泳ぎ、自由形、メドレーで変化します
+             個人 。 これらの個人種目に加えて、4人のスイマーが参加できます
+             フリースタイルリレーまたはメドレーで。 メドレーリレーは4人の水泳選手で構成されています
+             それぞれが異なるスタイルで泳ぎ、背泳ぎ、泳ぎの順序で泳ぐ
+             平泳ぎ、バタフライ、自由形。
+        </item>
+        <item> 卓球または卓球は、ピンポンおよびウィフワフとしても知られています。
+             ボールとも呼ばれる軽量のボールを 2 人または 4 人のプレーヤーが打つスポーツ
+             小さなコンパクトなラケットを使用して、テーブルを横切ってピンポンを行ったり来たりします。 ゲーム
+             ネットで区切られた硬いテーブルの上で行われます。 初期サービス以外は、
+             ルールは一般的に次のとおりです。
+             彼らはテーブルの横で一度バウンドし、バウンドしたので元に戻さなければなりませんでした
+             反対側に少なくとも1回。 プレーヤーが
+             ルールに従ってボールを返せなかった。 すばやくプレイし、素早い反応を要求します。 遊ぶ
+             ボールは軌道を変えて相手の選択肢を制限し、相手に大きなアドバンテージを与えます
+             バット。
+        </item>
+        <item> テニスは、1 人の相手に対して個別にプレーするラケット スポーツです。
+             ( シングルス ) または 2 人のプレーヤーの 2 つのチーム間 ( ダブルス )。
+             各プレーヤーは、ボールを打つために紐で張られたテニスラケットを使用します
+             ネットの上または周りと中にフェルトで覆われた中空のゴム
+             相手のフィールド。 ゲームの目的は、そのようにボールを動かすことです
+             対戦相手が有効なリターンをプレイできないようにします。 できない選手
+             合法的にボールを返すことはポイントを獲得しませんが、対戦相手のプレーヤーは
+             ポイントを獲得します。
+        </item>
+    </string-array>
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+    <string name="app_name">Material Me - Resource Challenge 2</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+    <string name="title_placeholder">Title</string>
+</resources>

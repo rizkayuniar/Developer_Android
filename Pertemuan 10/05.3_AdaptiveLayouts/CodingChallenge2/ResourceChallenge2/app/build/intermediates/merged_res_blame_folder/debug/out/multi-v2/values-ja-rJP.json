@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.materialmeresourcechallenge2.app-mergeDebugResources-11:/values-ja-rJP/values-ja-rJP.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rizka\\AndroidStudioProjects\\Lesson_5\\05.3_AdaptiveLayouts\\CodingChallenge2\\MaterialMe-ResourceChallenge2\\app\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "from": {
+                        "startLines": "56,42,28,14,2,4,5,6,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2403,1863,1255,854,57,183,234,305,130",
+                        "endLines": "172,54,40,26,2,4,5,12,3",
+                        "endColumns": "19,12,19,19,71,49,69,13,51",
+                        "endOffsets": "7749,2395,1855,1247,124,228,299,846,177"
+                    },
+                    "to": {
+                        "startLines": "2,119,132,145,158,159,160,161,168",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,5290,5815,6408,6794,6866,6916,6986,7526",
+                        "endLines": "118,131,144,157,158,159,160,167,168",
+                        "endColumns": "19,12,19,19,71,49,69,13,51",
+                        "endOffsets": "5285,5810,6403,6789,6861,6911,6981,7521,7573"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Wed Dec 14 20:39:10 SGT 2022
+base.0=C\:\\Users\\rizka\\AndroidStudioProjects\\Lesson_5\\05.3_AdaptiveLayouts\\CodingChallenge\\MaterialMe-ResourceChallenge\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

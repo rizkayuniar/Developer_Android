@@ -1,0 +1,188 @@
+<!--
+  Copyright 2018 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Resource Challenge 2</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Football</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Football news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string-array name="sports_details">
+        <item>Bisbol (bahasa Inggris: baseball) adalah olahraga yang dimainkan dua tim. Olahraga ini
+            mirip dengan permainan bola kasti. Pelempar (pitcher) dari tim yang melempar berusaha melempar
+            bola yang disebut bola bisbol, sedangkan pemain (batter) dari tim yang memukul berusaha
+            memukul bola dengan menggunakan tongkat pemukul (bat). Tim yang melempar berusaha
+            menangkap bola yang dipukul oleh tim yang memukul agar tim yang memukul berubah menjadi
+            tim yang melempar. Tim yang memukul mendapat angka dengan cara berlari berlawanan arah
+            dengan jarum jam untuk pulang ke home plate setelah menyentuh marka di permukaan
+            lapangan bisbol yang disebut base. Bisbol juga disebut sebagai hardball untuk
+            membedakannya dengan sofbol.
+        </item>
+        <item>Bulu tangkis, badminton, atau tepuk bulu (bahasa Inggris: badminton) adalah suatu
+            olahraga yang menggunakan alat yang berbentuk bulat dengan memiliki rongga-rongga di
+            bagian pemukulnya. Dan memiliki gagang. Alat ini dikenal dengan nama raket yang
+            dimainkan oleh dua orang (untuk tunggal) atau dua pasangan (untuk ganda) yang saling
+            berlawanan. Mirip dengan tenis, bulu tangkis bertujuan memukul bola permainan bulu
+            tangkis, yaitu kok (shuttlecock) melewati jaring agar jatuh di bidang permainan lawan
+            yang sudah ditentukan dan berusaha mencegah lawan melakukan hal yang sama.
+        </item>
+        <item> Basketball atau bola basket adalah olahraga beregu di mana dua tim, biasanya
+            masing-masing terdiri dari lima pemain, saling berhadapan di lapangan persegi panjang,
+            bersaing dengan tujuan utama menembakkan bola basket (berdiameter sekitar 9,4 inci
+            (24 cm)) melalui ring bek ( keranjang berdiameter 18 inci (46 cm) dipasang
+            setinggi 10 kaki (3,048 m) ke papan di setiap ujung lapangan, sambil mencegah tim lawan
+            menembak melalui ring mereka sendiri. Gol lapangan bernilai dua poin, kecuali dibuat
+            dari belakang garis tiga angka, saat bernilai tiga.Setelah pelanggaran, waktu permainan
+            berhenti dan pemain yang melakukan pelanggaran atau ditunjuk untuk menembak pelanggaran
+            teknis diberikan satu, dua atau tiga lemparan bebas satu poin. Tim dengan poin
+            terbanyak di akhir pertandingan menang, tetapi jika permainan regulasi berakhir dengan
+            skor imbang, periode permainan tambahan ( perpanjangan waktu ) diwajibkan.
+        </item>
+        <item> Bowling atau bola gelinding adalah jenis permainan dan olahraga yang kegiatannya
+            hanya menggelindingkan bola boling dengan menggunakan satu tangan hingga mengenai pin
+            segitiga yang berjumlah sepuluh buah. Jika semua pin dijatuhkan dalam sekali gelinding
+            (lemparan) maka itu disebut strike. Jika pin tidak dijatuhkan sekaligus maka diberikan
+            satu kesempatan lagi untuk menjatuhkan pin yang tersisa. Bilamana pada lemparan kedua
+            tidak ada lagi pin tersisa disebut spare. Jika setelah dua kali masih ada pin yang
+            tersisa maka disebut open frame (missed) yang keseluruhannya itu akan menentukan
+            perhitungan angka yang didapat dalam setiap game. Pin akan kembali disusun seperti
+            semula untuk frame selanjutnya.
+        </item>
+        <item> Cycling atau Bersepeda, juga ketika menggunakan sepeda roda dua, disebut bersepeda
+            atau bersepeda, adalah penggunaan sepeda untuk transportasi, rekreasi, olah raga. Orang
+            yang terlibat dalam bersepeda disebut sebagai "pengendara sepeda". Selain sepeda roda
+            dua, "bersepeda" juga termasuk mengendarai unicycles , becak , quadricycles , recumbent
+            dan sejenis kendaraan bertenaga manusia (HPVs). Sepeda diperkenalkan pada abad ke-19 dan
+            sekarang berjumlah sekitar satu miliar di seluruh dunia. Mereka adalah alat transportasi
+            utama di banyak bagian dunia, terutama di kota-kota padat penduduk Eropa. Bersepeda
+            secara luas dianggap sebagai moda transportasi yang efektif dan efisien optimal untuk
+            jarak pendek hingga sedang.
+        </item>
+        <item> Golf adalah permainan luar ruang yang dimainkan secara perorangan atau tim yang
+            berlomba memasukkan bola ke dalam lubang-lubang yang ada di lapangan dengan jumlah
+            pukulan tersedikit mungkin. Bola dipukul dengan menggunakan satu set tongkat pemukul
+            yang disebut klab (stik golf). Olahraga ini adalah salah satu dari permainan yang tidak
+            memiliki lapangan permainan yang standar, melainkan dimainkan di padang yang masing-
+            masing memiliki desain unik, dan biasanya terdiri dari 9 atau 18 hole (lubang).
+            Aturan utama dalam golf adalah "memainkan sebuah bola dengan stik golf dari daerah tee
+            (teeing ground) ke dalam lubang dengan satu pukulan atau beberapa pukulan berikutnya
+            sesuai dengan Aturan".
+        </item>
+        <item> Running atau Berlari adalah metode penggerak terestrial yang memungkinkan manusia
+            dan hewan lain bergerak cepat dengan berjalan kaki. Berlari adalah jenis gaya berjalan
+            yang ditandai dengan fase udara di mana semua kaki berada di atas tanah (meskipun ada
+            pengecualian). Ini berbeda dengan berjalan , di mana satu kaki selalu bersentuhan
+            dengan tanah, sebagian besar kaki dijaga tetap lurus dan pusat gravitasi kubah di atas
+            kaki kuda atau kaki dengan gaya pendulum terbalik.Ciri tubuh yang berjalan dari sudut
+            pandang mekanika pegas-massa adalah bahwa perubahan energi kinetik dan potensial dalam
+            satu langkah terjadi secara bersamaan, dengan penyimpanan energi dilakukan oleh tendon
+            kenyal dan elastisitas otot pasif. [3] Istilah lari dapat mengacu pada berbagai
+            kecepatan mulai dari joging hingga lari cepat .
+        </item>
+        <item> Olahraga terpopuler di dunia, sepak bola, punya dua sebutan berbeda dalam bahasa
+            Inggris, "football" dan "soccer". "Football" dipakai oleh orang Inggris dan mayoritas
+            penduduk dunia, serta FIFA. Sedangkan "soccer" secara khusus hanya digunakan oleh
+            masyarakat Amerika Serikat (AS). Sebenarnya Australia juga menggunakan frasa "soccer"
+            untuk julukan tim nasional sepak bolanya, Socceroos. Uniknya, organisasi sepak bola
+            Negeri Kangguru justru memakai frasa "football" —Football Federation Australia (FFA).
+            Lantas mengapa ada dua istilah berbeda untuk sepak bola dalam bahasa Inggris?
+            Jadi, pada awal 1800-an, sekelompok universitas di Inggris melakoni permainan yang
+            disebut "football" Namun, permainan dan peraturan satu universitas dengan universitas
+            lain tidak seragam. Itu sebabnya penyebutan permainan itu dalam bahasa Inggris juga
+            beragam, tergantung kategori permainannya. Salah satu varian yang muncul adalah "rugby
+            football" karena permainan dilakukan pula dengan tangan. Sedangkan varian lainnya
+            menyebut association football, tak lama setelah FA dibentuk pada 1863.
+        </item>
+        <item> Swimming atau Renang adalah olahraga balap individu atau tim yang membutuhkan
+            penggunaan seluruh tubuh seseorang untuk bergerak di air. Olahraga berlangsung di kolam
+            renang atau perairan terbuka (misalnya, di laut atau danau). Renang kompetitif
+            merupakan salah satu cabang olahraga olimpiade yang paling digemari , dengan nomor lari
+            yang bervariasi dalam gaya kupu- kupu, gaya punggung, gaya dada, gaya bebas, dan ganti
+            perorangan . Selain pertandingan individu ini, empat perenang dapat mengambil bagian
+            dalam estafet gaya bebas atau medley. Estafet medley terdiri dari empat perenang yang
+            masing-masing akan berenang dengan gaya berbeda, diurutkan sebagai gaya punggung, gaya
+            dada, gaya kupu-kupu, dan gaya bebas.
+        </item>
+        <item> Table Tenis atau Tenis meja , juga dikenal sebagai ping-pong dan whiff-whaff , adalah
+            olahraga di mana dua atau empat pemain memukul bola ringan, juga dikenal sebagai bola
+            ping-pong, bolak-balik melintasi meja menggunakan raket padat kecil. Permainan
+            berlangsung di atas meja keras yang dibagi dengan jaring. Kecuali untuk servis awal,
+            aturan umumnya sebagai berikut: pemain harus membiarkan bola yang dimainkan ke arah
+            mereka memantul sekali di sisi meja mereka dan harus mengembalikannya sehingga memantul
+            di sisi yang berlawanan setidaknya sekali. Suatu poin dicetak ketika seorang pemain
+            gagal mengembalikan bola sesuai aturan. Bermain cepat dan menuntut reaksi cepat. Memutar
+            bola mengubah lintasannya dan membatasi pilihan lawan, memberikan keuntungan besar bagi
+            pemukul.
+        </item>
+        <item> Tenis adalah olahraga raket yang dimainkan baik secara individu melawan satu lawan
+            ( tunggal ) atau antara dua tim yang masing-masing terdiri dari dua pemain ( ganda ).
+            Setiap pemain menggunakan raket tenis yang dirangkai dengan tali untuk memukul bola
+            karet berongga yang dilapisi kain kempa di atas atau di sekitar jaring dan masuk ke
+            lapangan lawan . Tujuan permainan ini adalah untuk menggerakkan bola sedemikian rupa
+            sehingga lawan tidak dapat memainkan pengembalian yang sah. Pemain yang tidak dapat
+            mengembalikan bola secara sah tidak akan mendapatkan poin, sedangkan pemain lawan akan
+            mendapatkan poin.
+        </item>
+    </string-array>
+</resources>
